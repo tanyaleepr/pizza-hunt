@@ -13,7 +13,6 @@ const CommentSchema = new Schema({
   }
 });
 
-const Pizza = require('./Pizza');
-const Comment = require('./Comment');
+const Comment = model('Comment', CommentSchema);
 
-module.exports = { Pizza, Comment };
+module.exports = Comment;
