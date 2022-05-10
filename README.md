@@ -3,7 +3,7 @@
 ![license badge](https://img.shields.io/badge/license-MIT-brightblue)
     
 ## Description
-Pizza Hunt is a social networking recipe app that allows users to share their own pizza creations, leave comments on recipes, and develop threads within those comments
+Pizza Hunt is a social networking recipe app that allows users to share their own pizza creations, leave comments on recipes, and develop threads within those comments. For deployed link, please visit my [Heroku Link](https://guarded-reaches-93324.herokuapp.com/).
 
 ## Table of Contents
 
